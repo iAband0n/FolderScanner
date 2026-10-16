@@ -1,0 +1,3 @@
+# Build-time dependency. Tkinter is included with the standard Windows Python installer.
+pyinstaller>=6.0,<7
+

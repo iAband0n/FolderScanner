@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+build_env/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Local application data and private scan results
+wx_scan_cache.json
+wx_user_config.json
+FolderSizeScanner/
+
+# Local/temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Personal/experimental copies in this workspace
+扫描_*.py
+扫描_*.txt
+扫描.txt

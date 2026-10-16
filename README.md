@@ -16,7 +16,7 @@
 
 ## 下载使用
 
-在 GitHub Releases 下载 Windows 构建包，解压后运行 `scaner_with_wechat.exe`。
+在 GitHub Releases 下载运行 `scaner_with_wechat.exe`。
 
 程序不会上传文件内容。微信分析功能会读取目录名称、目录路径和文件大小；这些信息仅用于本地显示和缓存。
 
